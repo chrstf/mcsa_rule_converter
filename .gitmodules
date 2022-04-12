@@ -1,0 +1,3 @@
+[submodule "mrv_tools/periodic_table"]
+	path = mrv_tools/periodic_table
+	url = git@github.com:Bowserinator/Periodic-Table-JSON.git
